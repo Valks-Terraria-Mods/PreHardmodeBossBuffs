@@ -1,0 +1,3 @@
+If you're playing in a normal world and you defeat a boss (drops normal loot), the next time you fight that boss, it will be in expert mode with expert drops. All bosses (and boss minions) and lunar pillars are effected. Regular hostile wandering NPCs are not effected.
+
+Known Bug: The boss health and drops are changed but the boss retains its normal AI status. So for example when you fight skeletron, his head will move slowly towards you even if you defeat him once.
