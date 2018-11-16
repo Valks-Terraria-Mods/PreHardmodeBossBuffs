@@ -1,3 +1,7 @@
-If you're playing in a normal world and you defeat a boss (drops normal loot), the next time you fight that boss, it will be in expert mode with expert drops. All bosses (and boss minions) and lunar pillars are effected. Regular hostile wandering NPCs are not effected.
+If you're playing in a normal world, the first time you fight a particular boss it will be in normal mode. The second time you fight that boss, it will be in expert mode. (This means that the boss will now have expert health and expert drops)
 
-Known Bug: The boss health and drops are changed but the boss retains its normal AI status. So for example when you fight skeletron, his head will move slowly towards you even if you defeat him once.
+v2.0
+Fixed bug where eater of worlds dropped a treasure bag for every part of it's body you killed.
+Fixed bug where all NPC's were giving a treasure bag after you killed a particular boss.
+Removed redundant code.
+Cleaned up code.
